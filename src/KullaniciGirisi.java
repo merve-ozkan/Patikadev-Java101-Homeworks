@@ -35,7 +35,7 @@ public class KullaniciGirisi {
                 }else if (choice.equals("H")){
                 System.out.println("Sifre sifirlama iptal edildi.");
             } else{
-                System.out.println("Hata!");
+                System.out.println("Hata!!");
             }
 
         }
