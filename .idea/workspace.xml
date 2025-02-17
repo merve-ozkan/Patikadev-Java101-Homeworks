@@ -20,18 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "merve-ozkan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;merve-ozkan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/merve-ozkan/PatikadevJava101Homeworks.git",
-    "accountId": "e2e8b443-c1d6-4efd-a4f9-f1c98cf71cb6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/merve-ozkan/PatikadevJava101Homeworks.git&quot;,
+    &quot;accountId&quot;: &quot;e2e8b443-c1d6-4efd-a4f9-f1c98cf71cb6&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/HesapMakinesi.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -43,22 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DaireAlani.executor": "Run",
-    "Application.HesapMakinesi.executor": "Run",
-    "Application.KdvHesaplama.executor": "Run",
-    "Application.ManavKasa.executor": "Run",
-    "Application.NotOrtalamasi.executor": "Run",
-    "Application.Taksimetre.executor": "Run",
-    "Application.UcgenAlani.executor": "Run",
-    "Application.VucutKitleIndeksi.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/Patika_Uygulamalar/PatikadevJava101Homeworks"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DaireAlani.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HesapMakinesi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KdvHesaplama.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ManavKasa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotOrtalamasi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Taksimetre.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UcgenAlani.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VucutKitleIndeksi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/Patika_Uygulamalar/PatikadevJava101Homeworks&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,5 +72,28 @@
       <updated>1739575364439</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
