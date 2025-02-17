@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;merve-ozkan&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/merve-ozkan/Patikadev-Java101-Homeworks.git",
-    "accountId": "e2e8b443-c1d6-4efd-a4f9-f1c98cf71cb6"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/merve-ozkan/PatikadevJava101Homeworks.git&quot;,
+    &quot;accountId&quot;: &quot;e2e8b443-c1d6-4efd-a4f9-f1c98cf71cb6&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/HesapMakinesi.java" root0="FORCE_HIGHLIGHTING" />
   </component>
