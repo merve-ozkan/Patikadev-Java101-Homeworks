@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PatikadevJava101Homeworks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DaireAlani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KdvHesaplama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManavKasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NotOrtalamasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taksimetre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UcgenAlani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VucutKitleIndeksi.java" afterDir="false" />
-    </list>
+    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "merve-ozkan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/merve-ozkan/PatikadevJava101Homeworks.git",
+    "accountId": "e2e8b443-c1d6-4efd-a4f9-f1c98cf71cb6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -58,7 +54,7 @@
     "Application.UcgenAlani.executor": "Run",
     "Application.VucutKitleIndeksi.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Projects/Patika_Uygulamalar/PatikadevJava101Homeworks"
   }
