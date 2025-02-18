@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added KullaniciGirisi">
-      <change afterPath="$PROJECT_DIR$/src/EtkinlikOnerme.java" afterDir="false" />
+    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added EtkinlikOnerme">
+      <change afterPath="$PROJECT_DIR$/src/Siralama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Application.ManavKasa.executor": "Run",
     "Application.NotOrtalamasi.executor": "Run",
     "Application.SinifGecme.executor": "Run",
+    "Application.Siralama.executor": "Run",
     "Application.Taksimetre.executor": "Run",
     "Application.UcgenAlani.executor": "Run",
     "Application.VucutKitleIndeksi.executor": "Run",
@@ -94,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739887029197</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added EtkinlikOnerme">
+      <option name="closed" value="true" />
+      <created>1739891496616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739891496616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added KullaniciGirisi" />
-    <option name="LAST_COMMIT_MESSAGE" value="added KullaniciGirisi" />
+    <MESSAGE value="added EtkinlikOnerme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added EtkinlikOnerme" />
   </component>
 </project>
