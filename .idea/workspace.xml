@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added EtkinlikOnerme">
-      <change afterPath="$PROJECT_DIR$/src/Siralama.java" afterDir="false" />
+    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added Siralama">
+      <change afterPath="$PROJECT_DIR$/src/BurcBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BurcBulma.executor": "Run",
     "Application.DaireAlani.executor": "Run",
     "Application.EtkinlikOnerme.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
@@ -103,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739891496616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added Siralama">
+      <option name="closed" value="true" />
+      <created>1739904624345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739904624345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added KullaniciGirisi" />
     <MESSAGE value="added EtkinlikOnerme" />
-    <option name="LAST_COMMIT_MESSAGE" value="added EtkinlikOnerme" />
+    <MESSAGE value="added Siralama" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Siralama" />
   </component>
 </project>
