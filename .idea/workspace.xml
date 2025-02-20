@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added SayiOrtalama">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/CiftSayiToplami.java" afterDir="false" />
+    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added CiftSayiToplami">
+      <change afterPath="$PROJECT_DIR$/src/Donguler/KuvvetBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArtikYilHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/ArtikYilHesaplama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BurcBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/BurcBulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CinZodyagiHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/CinZodyagiHesaplama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DaireAlani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/DaireAlani.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EtkinlikOnerme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/EtkinlikOnerme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KdvHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/KdvHesaplama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KullaniciGirisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/KullaniciGirisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManavKasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/ManavKasa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NotOrtalamasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/NotOrtalamasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinifGecme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/SinifGecme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Siralama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/Siralama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Taksimetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/Taksimetre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UcakBileti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/UcakBileti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UcgenAlani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/UcgenAlani.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VucutKitleIndeksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/VucutKitleIndeksi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +56,14 @@
   "keyToString": {
     "Application.ArtikYilHesaplama.executor": "Run",
     "Application.BurcBulma.executor": "Run",
+    "Application.CiftSayiToplami.executor": "Run",
     "Application.CinZodyagiHesaplama.executor": "Run",
     "Application.DaireAlani.executor": "Run",
     "Application.EtkinlikOnerme.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
     "Application.KdvHesaplama.executor": "Run",
     "Application.KullaniciGirisi.executor": "Run",
+    "Application.KuvvetBulma.executor": "Run",
     "Application.ManavKasa.executor": "Run",
     "Application.NotOrtalamasi.executor": "Run",
     "Application.SayiOrtalama.executor": "Run",
@@ -95,9 +81,22 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CiftSayiToplami">
+  <component name="RunManager" selected="Application.KuvvetBulma">
     <configuration name="CiftSayiToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.CiftSayiToplami" />
+      <module name="PatikadevJava101Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Donguler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KuvvetBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.KuvvetBulma" />
       <module name="PatikadevJava101Homeworks" />
       <extension name="coverage">
         <pattern>
@@ -124,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KuvvetBulma" />
         <item itemvalue="Application.CiftSayiToplami" />
         <item itemvalue="Application.SayiOrtalama" />
       </list>
@@ -210,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740086531393</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added CiftSayiToplami">
+      <option name="closed" value="true" />
+      <created>1740087960796</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740087960796</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +253,7 @@
     <MESSAGE value="added CinZodyagiHesaplama" />
     <MESSAGE value="added ArtikYilHesaplama" />
     <MESSAGE value="added SayiOrtalama" />
-    <option name="LAST_COMMIT_MESSAGE" value="added SayiOrtalama" />
+    <MESSAGE value="added CiftSayiToplami" />
+    <option name="LAST_COMMIT_MESSAGE" value="added CiftSayiToplami" />
   </component>
 </project>
