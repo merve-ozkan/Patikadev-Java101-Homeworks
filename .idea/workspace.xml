@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added UcakBileti">
-      <change afterPath="$PROJECT_DIR$/src/CinZodyagiHesaplama.java" afterDir="false" />
+    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added CinZodyagiHesaplama">
+      <change afterPath="$PROJECT_DIR$/src/ArtikYilHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArtikYilHesaplama.executor": "Run",
     "Application.BurcBulma.executor": "Run",
     "Application.CinZodyagiHesaplama.executor": "Run",
     "Application.DaireAlani.executor": "Run",
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740059877047</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added CinZodyagiHesaplama">
+      <option name="closed" value="true" />
+      <created>1740061659634</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740061659635</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +174,7 @@
     <MESSAGE value="added Siralama" />
     <MESSAGE value="added BurcBulma" />
     <MESSAGE value="added UcakBileti" />
-    <option name="LAST_COMMIT_MESSAGE" value="added UcakBileti" />
+    <MESSAGE value="added CinZodyagiHesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="added CinZodyagiHesaplama" />
   </component>
 </project>
