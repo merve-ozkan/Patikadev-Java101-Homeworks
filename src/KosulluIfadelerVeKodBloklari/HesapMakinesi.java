@@ -1,3 +1,5 @@
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 
 //Java- kosullu ifadeler ile basit hesap makinesi yapimi

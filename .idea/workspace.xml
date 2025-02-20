@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added CinZodyagiHesaplama">
-      <change afterPath="$PROJECT_DIR$/src/ArtikYilHesaplama.java" afterDir="false" />
+    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added ArtikYilHesaplama">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/SayiOrtalama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KosulluIfadelerVeKodBloklari/HesapMakinesi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,7 @@
     "Application.KullaniciGirisi.executor": "Run",
     "Application.ManavKasa.executor": "Run",
     "Application.NotOrtalamasi.executor": "Run",
+    "Application.SayiOrtalama.executor": "Run",
     "Application.SinifGecme.executor": "Run",
     "Application.Siralama.executor": "Run",
     "Application.Taksimetre.executor": "Run",
@@ -71,12 +74,33 @@
     "Application.UcgenAlani.executor": "Run",
     "Application.VucutKitleIndeksi.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projects/Patika_Uygulamalar/PatikadevJava101Homeworks",
+    "last_opened_file_path": "C:/Projects/Patika_Uygulamalar/Java101",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SayiOrtalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.SayiOrtalama" />
+      <module name="PatikadevJava101Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Donguler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SayiOrtalama" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -142,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740061659635</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added ArtikYilHesaplama">
+      <option name="closed" value="true" />
+      <created>1740074046684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740074046684</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +207,7 @@
     <MESSAGE value="added BurcBulma" />
     <MESSAGE value="added UcakBileti" />
     <MESSAGE value="added CinZodyagiHesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="added CinZodyagiHesaplama" />
+    <MESSAGE value="added ArtikYilHesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ArtikYilHesaplama" />
   </component>
 </project>
