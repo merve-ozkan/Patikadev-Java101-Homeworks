@@ -1,3 +1,5 @@
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 public class VucutKitleIndeksi {
     public static void main(String[] args) {

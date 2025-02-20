@@ -1,3 +1,5 @@
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 
 //kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran program

@@ -1,3 +1,5 @@
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 
 //Hava sıcaklıgına gore etkinlik oneren program

@@ -1,3 +1,5 @@
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 
 //Kullanici adi ve sifreyi kontrol eden program

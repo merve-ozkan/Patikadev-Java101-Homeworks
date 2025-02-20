@@ -1,3 +1,5 @@
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 
 //Kullanıcının girdiği 3 sayıyı küçükten büyüğe doğru sıralayan program

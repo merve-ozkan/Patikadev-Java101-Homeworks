@@ -1,3 +1,5 @@
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 
 //kullanıcının girdiği yılın artık olup olmadığını bulan program

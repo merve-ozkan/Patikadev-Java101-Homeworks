@@ -1,4 +1,5 @@
-import java.util.Optional;
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 
 public class SinifGecme {
@@ -43,7 +44,7 @@ public class SinifGecme {
             lessonNumber++;
         }
 
-        double average = lesson / lessonNumber;
+        double average = (double) lesson / lessonNumber;
 
         if(average <= 55){
             System.out.println("Sınıfta kaldınız!");

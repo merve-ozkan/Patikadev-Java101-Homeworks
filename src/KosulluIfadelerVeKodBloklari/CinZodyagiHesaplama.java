@@ -1,3 +1,5 @@
+package KosulluIfadelerVeKodBloklari;
+
 import java.util.Scanner;
 
 //kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program
