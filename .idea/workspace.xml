@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added BurcBulma">
-      <change afterPath="$PROJECT_DIR$/src/UcakBileti.java" afterDir="false" />
+    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added UcakBileti">
+      <change afterPath="$PROJECT_DIR$/src/CinZodyagiHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/HesapMakinesi.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -52,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BurcBulma.executor": "Run",
+    "Application.CinZodyagiHesaplama.executor": "Run",
     "Application.DaireAlani.executor": "Run",
     "Application.EtkinlikOnerme.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
@@ -121,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739907965912</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added UcakBileti">
+      <option name="closed" value="true" />
+      <created>1740059877047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740059877047</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +164,7 @@
     <MESSAGE value="added EtkinlikOnerme" />
     <MESSAGE value="added Siralama" />
     <MESSAGE value="added BurcBulma" />
-    <option name="LAST_COMMIT_MESSAGE" value="added BurcBulma" />
+    <MESSAGE value="added UcakBileti" />
+    <option name="LAST_COMMIT_MESSAGE" value="added UcakBileti" />
   </component>
 </project>
