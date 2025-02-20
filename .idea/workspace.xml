@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added CiftSayiToplami">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/KuvvetBulma.java" afterDir="false" />
+    <list default="true" id="76ba6668-7464-4868-bf10-cfd0f4b72a53" name="Changes" comment="added KuvvetBulma">
+      <change afterPath="$PROJECT_DIR$/src/Donguler/Kombinasyon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Application.EtkinlikOnerme.executor": "Run",
     "Application.HesapMakinesi.executor": "Run",
     "Application.KdvHesaplama.executor": "Run",
+    "Application.Kombinasyon.executor": "Run",
     "Application.KullaniciGirisi.executor": "Run",
     "Application.KuvvetBulma.executor": "Run",
     "Application.ManavKasa.executor": "Run",
@@ -81,9 +82,22 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KuvvetBulma">
+  <component name="RunManager" selected="Application.Kombinasyon">
     <configuration name="CiftSayiToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.CiftSayiToplami" />
+      <module name="PatikadevJava101Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Donguler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kombinasyon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.Kombinasyon" />
       <module name="PatikadevJava101Homeworks" />
       <extension name="coverage">
         <pattern>
@@ -123,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kombinasyon" />
         <item itemvalue="Application.KuvvetBulma" />
         <item itemvalue="Application.CiftSayiToplami" />
         <item itemvalue="Application.SayiOrtalama" />
@@ -218,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740087960796</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added KuvvetBulma">
+      <option name="closed" value="true" />
+      <created>1740089463354</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740089463354</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +277,7 @@
     <MESSAGE value="added ArtikYilHesaplama" />
     <MESSAGE value="added SayiOrtalama" />
     <MESSAGE value="added CiftSayiToplami" />
-    <option name="LAST_COMMIT_MESSAGE" value="added CiftSayiToplami" />
+    <MESSAGE value="added KuvvetBulma" />
+    <option name="LAST_COMMIT_MESSAGE" value="added KuvvetBulma" />
   </component>
 </project>
